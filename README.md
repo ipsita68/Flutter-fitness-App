@@ -36,6 +36,13 @@ The project structure is organized as follows:
   - **icons/**: Contains SVG icons used in the UI.
 - **main.dart**: The main entry point of the application, defining the root widget (`MyApp`) and setting up the MaterialApp.
 - **README.md**: Provides an overview of the project and instructions for running it locally.
+## Screenshots of App:
+
+<img src="https://github.com/ipsita68/Flutter-fitness-App/assets/121110612/ec2d1476-0244-4959-9657-d1f83f4c154e" alt="Screenshot" width="500" height="auto">
+
+<img src="https://github.com/ipsita68/Flutter-fitness-App/assets/121110612/49c8dc7b-a53c-4ca7-96dd-9b51d3d9b8a1" alt="WhatsApp Image 2024-05-19 at 22 31 55_6267979b" width="500" height="auto">
+
+
 - **pubspec.yaml**: Defines the Flutter project dependencies and assets.
 
 ## Features
