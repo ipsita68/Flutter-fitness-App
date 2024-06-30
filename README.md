@@ -47,7 +47,7 @@ The project structure is organized as follows:
 
 ## Features
 
-- **Categories Section**: Displays different workout categories to help users choose their preferred exercise type.
+- **Categories Section**: Displays different workout categories to help users filter and explore different breakfast options based on their preferences.
 - **Diet Recommendations**: Provides diet recommendations based on various factors such as duration, calorie count, and difficulty level.
 - **Search Functionality**: Allows users to search for specific workouts or diet plans using the search field.
 - **Custom UI Components**: Utilizes custom UI components such as custom app bar, search field, and scrollable lists.
